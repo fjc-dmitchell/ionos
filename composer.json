@@ -28,6 +28,7 @@
         "drupal/pathauto": "^1.12",
         "drupal/rename_admin_paths": "^2.2",
         "drupal/views_bulk_operations": "^4.2",
+        "drupal/xmlsitemap": "^1.5",
         "drush/drush": "^12.5"
     },
     "conflict": {
