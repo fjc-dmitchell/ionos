@@ -29,6 +29,7 @@
         "drupal/module_filter": "^5.0",
         "drupal/pathauto": "^1.12",
         "drupal/rename_admin_paths": "^2.2",
+        "drupal/stage_file_proxy": "^2.1",
         "drupal/views_bulk_operations": "^4.2",
         "drupal/xmlsitemap": "^1.5",
         "drush/drush": "^12.5"
