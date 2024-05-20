@@ -19,7 +19,8 @@
         "drupal/bartik": "^1.0",
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
-        "drupal/core-recommended": "^10.2"
+        "drupal/core-recommended": "^10.2",
+        "drupal/rename_admin_paths": "^2.2"
     },
     "conflict": {
         "drupal/drupal": "*"
