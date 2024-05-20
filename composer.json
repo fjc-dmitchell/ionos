@@ -21,6 +21,7 @@
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
         "drupal/core-recommended": "^10.2",
+        "drupal/feeds": "^3.0@beta",
         "drupal/rename_admin_paths": "^2.2",
         "drush/drush": "^12.5"
     },
