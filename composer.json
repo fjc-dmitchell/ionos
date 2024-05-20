@@ -25,6 +25,7 @@
         "drupal/feeds": "^3.0@beta",
         "drupal/feeds_tamper": "^2.0@beta",
         "drupal/module_filter": "^5.0",
+        "drupal/pathauto": "^1.12",
         "drupal/rename_admin_paths": "^2.2",
         "drupal/views_bulk_operations": "^4.2",
         "drush/drush": "^12.5"
